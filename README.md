@@ -3,10 +3,10 @@
 ## Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](./src/screenshots/login.png)
 
 ### Register Page
-![Register Page](screenshots/register.png)
+![Register Page](./src/screenshots/register.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](./src/screenshots/dashboard.png)
